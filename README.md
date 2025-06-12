@@ -1,39 +1,88 @@
-## Hi there 👋
-
-<!--
-**898803709/898803709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### I know
-
----
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/wordmark_1.svg" title="Airflow" **alt="Airflow" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" title="Ruby" **alt="Ruby" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" title="Rails" alt="Rails" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-  <img src="https://static.cdnlogo.com/logos/d/56/docker.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-### work in progress
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+</div>
 
-[fast_api](https://github.com/898803709/fast_api)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+HAN+%F0%9F%91%8B;Data+Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+## 🌟 **About Me**
+
+<table>
+<tr>
+<td width="400" align="left">
+
+### 👋 **Hi, I'm HAN!**
+🚀 **Data Engineer**   
+
+🌍 **Location:** Japan Tokyo 🇯🇵  
+💼 **Focus:** Crawler and workflow engine
+
+</td>
+</tr>
+</table>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2025" alt="readme streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
+## 🛠️ **Tech Stack**
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<!-- ### 📱  **Workflow Engine**
+<img src="https://skillicons.dev/icons?i=" /> -->
+
+<!-- ### ☁️  **Backend as a Service (BaaS)**
+<img src="https://skillicons.dev/icons?i=supabase,firebase" /> -->
+
+### 🔧  **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<!-- ### 🗄️  **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+
+### 🎨  **Design**
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" /> -->
+
+### 💻  **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=python,ruby,js,html,css" />
+
+</td>
+</tr>
+</table>
+
+## 🏆 **GitHub Trophies (Commits)**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+</div>
+
+## 💭 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
